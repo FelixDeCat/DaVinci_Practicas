@@ -1,0 +1,640 @@
+{
+    "list": [
+        {
+            "username": "Pepito",
+            "heroes": [
+                {
+                    "nombre": "Merlin",
+                    "stats": {
+                        "nameHeroType": "Mago",
+                        "skillsUnlocked": "",
+                        "health": 100,
+                        "mana": 200,
+                        "level": 1,
+                        "stregth": 10,
+                        "dextery": 50,
+                        "agility": 20,
+                        "damage": 10,
+                        "speed": 50,
+                        "attackSpeed": 50,
+                        "isHardMode": false,
+                        "items": [
+                            {
+                                "nombre": "Totem",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "Anillo",
+                                "cant": 2,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "Vaculo",
+                                "cant": 4,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "Espada",
+                                "cant": 6,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "asd",
+                                "cant": 1,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "qwe",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "ert",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "tyu",
+                                "cant": 123,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "tyughj",
+                                "cant": 567,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "uioio",
+                                "cant": 0,
+                                "_actionType": 0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "nombre": "Merlin",
+                    "stats": {
+                        "nameHeroType": "Mago",
+                        "skillsUnlocked": "",
+                        "health": 100,
+                        "mana": 200,
+                        "level": 1,
+                        "stregth": 10,
+                        "dextery": 50,
+                        "agility": 20,
+                        "damage": 10,
+                        "speed": 50,
+                        "attackSpeed": 50,
+                        "isHardMode": false,
+                        "items": [
+                            {
+                                "nombre": "1234",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "werwer",
+                                "cant": 2,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "dsfdsf",
+                                "cant": 4,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "gdfgrtey",
+                                "cant": 6,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "tyrrtyrt",
+                                "cant": 1,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "kljlk",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "2345ghf",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "sdfdsf",
+                                "cant": 123,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "iuyhkj",
+                                "cant": 567,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "bghnhkj",
+                                "cant": 0,
+                                "_actionType": 0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "nombre": "Merlin",
+                    "stats": {
+                        "nameHeroType": "Mago",
+                        "skillsUnlocked": "",
+                        "health": 100,
+                        "mana": 200,
+                        "level": 1,
+                        "stregth": 10,
+                        "dextery": 50,
+                        "agility": 20,
+                        "damage": 10,
+                        "speed": 50,
+                        "attackSpeed": 50,
+                        "isHardMode": false,
+                        "items": [
+                            {
+                                "nombre": "Totem",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "Anillo",
+                                "cant": 2,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "Vaculo",
+                                "cant": 4,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "Espada",
+                                "cant": 6,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "asd",
+                                "cant": 1,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "qwe",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "ert",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "tyu",
+                                "cant": 123,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "tyughj",
+                                "cant": 567,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "uioio",
+                                "cant": 0,
+                                "_actionType": 0
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "username": "Juancito",
+            "heroes": [
+                {
+                    "nombre": "Snake",
+                    "stats": {
+                        "nameHeroType": "Rogue",
+                        "skillsUnlocked": "",
+                        "health": 0,
+                        "mana": 0,
+                        "level": 0,
+                        "stregth": 0,
+                        "dextery": 0,
+                        "agility": 0,
+                        "damage": 0,
+                        "speed": 0,
+                        "attackSpeed": 0,
+                        "isHardMode": false,
+                        "items": [
+                            {
+                                "nombre": "Totem",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "Anillo",
+                                "cant": 2,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "Vaculo",
+                                "cant": 4,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "Espada",
+                                "cant": 6,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "asd",
+                                "cant": 1,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "qwe",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "ert",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "tyu",
+                                "cant": 123,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "tyughj",
+                                "cant": 567,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "uioio",
+                                "cant": 0,
+                                "_actionType": 0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "nombre": "Rock",
+                    "stats": {
+                        "nameHeroType": "Warrior",
+                        "skillsUnlocked": "",
+                        "health": 0,
+                        "mana": 0,
+                        "level": 0,
+                        "stregth": 0,
+                        "dextery": 0,
+                        "agility": 0,
+                        "damage": 0,
+                        "speed": 0,
+                        "attackSpeed": 0,
+                        "isHardMode": false,
+                        "items": [
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "nombre": "Merlin",
+                    "stats": {
+                        "nameHeroType": "Mago",
+                        "skillsUnlocked": "",
+                        "health": 100,
+                        "mana": 200,
+                        "level": 1,
+                        "stregth": 10,
+                        "dextery": 50,
+                        "agility": 20,
+                        "damage": 10,
+                        "speed": 50,
+                        "attackSpeed": 50,
+                        "isHardMode": false,
+                        "items": [
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "nombre": "Snake",
+                    "stats": {
+                        "nameHeroType": "Rogue",
+                        "skillsUnlocked": "",
+                        "health": 0,
+                        "mana": 0,
+                        "level": 0,
+                        "stregth": 0,
+                        "dextery": 0,
+                        "agility": 0,
+                        "damage": 0,
+                        "speed": 0,
+                        "attackSpeed": 0,
+                        "isHardMode": false,
+                        "items": [
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "username": "Martita",
+            "heroes": [
+                {
+                    "nombre": "Snake",
+                    "stats": {
+                        "nameHeroType": "Rogue",
+                        "skillsUnlocked": "",
+                        "health": 0,
+                        "mana": 0,
+                        "level": 0,
+                        "stregth": 0,
+                        "dextery": 0,
+                        "agility": 0,
+                        "damage": 0,
+                        "speed": 0,
+                        "attackSpeed": 0,
+                        "isHardMode": false,
+                        "items": [
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            }
+                        ]
+                    }
+                },
+                {
+                    "nombre": "Snake",
+                    "stats": {
+                        "nameHeroType": "Rogue",
+                        "skillsUnlocked": "",
+                        "health": 0,
+                        "mana": 0,
+                        "level": 0,
+                        "stregth": 0,
+                        "dextery": 0,
+                        "agility": 0,
+                        "damage": 0,
+                        "speed": 0,
+                        "attackSpeed": 0,
+                        "isHardMode": false,
+                        "items": [
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            },
+                            {
+                                "nombre": "",
+                                "cant": 0,
+                                "_actionType": 0
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

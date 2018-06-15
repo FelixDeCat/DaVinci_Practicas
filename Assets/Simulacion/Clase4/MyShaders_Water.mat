@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MyShaders_Water
+  m_Shader: {fileID: 4800000, guid: 6a3e28ef8a24e81499b85eb710c73d45, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BricksAlbedo:
+        m_Texture: {fileID: 2800000, guid: ff51c0acca012e244b6be70121d85744, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BricksBlending:
+        m_Texture: {fileID: 2800000, guid: 52485e8d019ebdc40852341e25b00c47, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BricksNormal:
+        m_Texture: {fileID: 2800000, guid: 8c8d08f2154d72342a0a54fc63a397d0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DummyTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Emission:
+        m_Texture: {fileID: 2800000, guid: ee3dc7de603c1a54d8a4506db9e6f8cb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseCloud:
+        m_Texture: {fileID: 2800000, guid: 421dc1198d667034ba2ebda56493a894, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 25d65f2606d9dc54c82f97c76381828f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture:
+        m_Texture: {fileID: 2800000, guid: ee3dc7de603c1a54d8a4506db9e6f8cb, type: 3}
+        m_Scale: {x: 0, y: 0}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _EdgeLength: 24
+    - _EmissionIntensity: 2.99
+    - _Float0: 0
+    - _FluidLevel: -0.31
+    - _NormalMultiply: 0
+    - _Offset: -0.2
+    - _SinOffset: 1.18
+    - _Time: 1
+    - __dirty: 0
+    m_Colors:
+    - _NormalSpeed: {r: 0.1, g: 0, b: 0, a: 0}
+    - _Speed: {r: 0.2, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 2, g: 2, b: 0, a: 0}
+    - _Vector0: {r: 0.2, g: 0, b: 0, a: 0}

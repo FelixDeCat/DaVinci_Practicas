@@ -1,0 +1,988 @@
+
+{
+  "id" : "ogio20",
+  "categories" : [
+    "surface",
+    "stone"
+  ],
+  "name"       : "stone floor tiles",
+  "tags"       : [
+    "Light",
+    "Gray",
+    "Grey",
+    "Mortar",
+    "Mortared Stone",
+    "Light Tan",
+    "Masonry",
+    "Tile",
+    "Tiles"
+  ],
+  "environment" : {
+    "region" : "Middle East",
+    "biome"  : "mediterranean-forest"
+  },
+  "averageColor" : "#AFA289",
+  "previews"     : {
+    "images" : [
+      {
+        "resolution" : "360x360",
+        "uri"        : "ogio2_Thumb.png",
+        "tags"       : [
+          "thumb"
+        ]
+      },
+      {
+        "resolution" : "720x720",
+        "uri"        : "ogio2_Thumb_Retina.png",
+        "tags"       : [
+          "thumb",
+          "retina"
+        ]
+      },
+      {
+        "resolution" : "1450x816",
+        "uri"        : "ogio2_Preview.jpg",
+        "tags"       : [
+          "preview"
+        ]
+      },
+      {
+        "resolution" : "2900x1632",
+        "uri"        : "ogio2_Preview_Retina.jpg",
+        "tags"       : [
+          "preview",
+          "retina"
+        ]
+      },
+      {
+        "resolution" : "1450x816",
+        "uri"        : "ogio2_PreviewClay.jpg",
+        "tags"       : [
+          "preview",
+          "clay"
+        ]
+      },
+      {
+        "resolution" : "2900x1632",
+        "uri"        : "ogio2_PreviewClay_Retina.jpg",
+        "tags"       : [
+          "preview",
+          "clay",
+          "retina"
+        ]
+      },
+      {
+        "resolution" : "360x360",
+        "uri"        : "ogio2_ThumbClay.png",
+        "tags"       : [
+          "thumb",
+          "clay"
+        ]
+      },
+      {
+        "resolution" : "720x720",
+        "uri"        : "ogio2_ThumbClay_Retina.png",
+        "tags"       : [
+          "thumb",
+          "clay",
+          "retina"
+        ]
+      },
+      {
+        "resolution" : "1450x816",
+        "uri"        : "ogio2_Tiled.jpg",
+        "tags"       : [
+          "preview",
+          "tiled"
+        ]
+      },
+      {
+        "resolution" : "2900x1632",
+        "uri"        : "ogio2_Tiled_Retina.jpg",
+        "tags"       : [
+          "preview",
+          "tiled",
+          "retina"
+        ]
+      },
+      {
+        "resolution" : "1450x816",
+        "uri"        : "ogio2_Cropped.jpg",
+        "tags"       : [
+          "preview",
+          "cropped"
+        ]
+      },
+      {
+        "resolution" : "2900x1632",
+        "uri"        : "ogio2_Cropped_Retina.jpg",
+        "tags"       : [
+          "preview",
+          "cropped",
+          "retina"
+        ]
+      },
+      {
+        "resolution" : "2048x2048",
+        "uri"        : "ogio2_Bake.jpg",
+        "tags"       : [
+          "bake"
+        ]
+      }
+    ],
+    "relativeSize" : "1x1"
+  },
+  "properties"   : [
+    {
+      "key" : "orientation",
+      "value" : "floor"
+    }
+  ],
+  "meta"         : [
+    {
+      "name" : "Scan Area",
+      "key"  : "scanArea",
+      "value" : "1x1 m"
+    },
+    {
+      "name" : "Height",
+      "key"  : "height",
+      "value" : "0.031 m"
+    },
+    {
+      "name" : "Tileable",
+      "key"  : "tileable",
+      "value" : "true"
+    },
+    {
+      "name" : "Texel Density",
+      "key"  : "texelDensity",
+      "value" : "4096 px/m"
+    },
+    {
+      "name" : "Calibration",
+      "key"  : "calibration",
+      "value" : "X-Rite ColorChecker Classic"
+    },
+    {
+      "name" : "Scanner",
+      "key"  : "scanner",
+      "value" : "MKI"
+    }
+  ],
+  "components"   : [
+    {
+      "type" : "albedo",
+      "name" : "Albedo",
+      "minIntensity" : "121",
+      "maxIntensity" : "180",
+      "averageColor" : "#A5977A",
+      "colorSpace"   : "sRGB",
+      "uris"         : [
+        {
+          "physicalSize" : "1x1",
+          "resolutions"  : [
+            {
+              "resolution" : "4096x4096",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_4K_Albedo.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_4K_Albedo.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "2048x2048",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_2K_Albedo.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_2K_Albedo.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "1024x1024",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_1K_Albedo.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_1K_Albedo.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "512x512",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_512_Albedo.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_512_Albedo.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "256x256",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_256_Albedo.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_256_Albedo.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type" : "ao",
+      "name" : "AO",
+      "minIntensity" : "223",
+      "maxIntensity" : "255",
+      "averageColor" : "#F7F7F7",
+      "colorSpace"   : "sRGB",
+      "uris"         : [
+        {
+          "physicalSize" : "1x1",
+          "resolutions"  : [
+            {
+              "resolution" : "4096x4096",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_4K_AO.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_4K_AO.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "2048x2048",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_2K_AO.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_2K_AO.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "1024x1024",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_1K_AO.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_1K_AO.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "512x512",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_512_AO.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_512_AO.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "256x256",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_256_AO.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_256_AO.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type" : "cavity",
+      "name" : "Cavity",
+      "minIntensity" : "116",
+      "maxIntensity" : "196",
+      "averageColor" : "#999999",
+      "colorSpace"   : "sRGB",
+      "uris"         : [
+        {
+          "physicalSize" : "1x1",
+          "resolutions"  : [
+            {
+              "resolution" : "4096x4096",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_4K_Cavity.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_4K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "2048x2048",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_2K_Cavity.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_2K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "1024x1024",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_1K_Cavity.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_1K_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "512x512",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_512_Cavity.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_512_Cavity.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "256x256",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_256_Cavity.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_256_Cavity.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type" : "displacement",
+      "name" : "Displacement",
+      "minIntensity" : "107",
+      "maxIntensity" : "147",
+      "averageColor" : "#808080",
+      "colorSpace"   : "Linear",
+      "uris"         : [
+        {
+          "physicalSize" : "1x1",
+          "resolutions"  : [
+            {
+              "resolution" : "4096x4096",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "32",
+                  "uri"      : "ogio2_4K_Displacement.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_4K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "2048x2048",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "32",
+                  "uri"      : "ogio2_2K_Displacement.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_2K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "1024x1024",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "32",
+                  "uri"      : "ogio2_1K_Displacement.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_1K_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "512x512",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "32",
+                  "uri"      : "ogio2_512_Displacement.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_512_Displacement.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "256x256",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "32",
+                  "uri"      : "ogio2_256_Displacement.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_256_Displacement.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type" : "bump",
+      "name" : "Bump",
+      "minIntensity" : "102",
+      "maxIntensity" : "155",
+      "averageColor" : "#808080",
+      "colorSpace"   : "Linear",
+      "uris"         : [
+        {
+          "physicalSize" : "1x1",
+          "resolutions"  : [
+            {
+              "resolution" : "4096x4096",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_4K_Bump.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_4K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "2048x2048",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_2K_Bump.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_2K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "1024x1024",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_1K_Bump.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_1K_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "512x512",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_512_Bump.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_512_Bump.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "256x256",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_256_Bump.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_256_Bump.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type" : "gloss",
+      "name" : "Gloss",
+      "minIntensity" : "27",
+      "maxIntensity" : "96",
+      "averageColor" : "#3F3F3F",
+      "colorSpace"   : "Linear",
+      "uris"         : [
+        {
+          "physicalSize" : "1x1",
+          "resolutions"  : [
+            {
+              "resolution" : "4096x4096",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_4K_Gloss.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_4K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "2048x2048",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_2K_Gloss.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_2K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "1024x1024",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_1K_Gloss.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_1K_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "512x512",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_512_Gloss.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_512_Gloss.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "256x256",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_256_Gloss.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_256_Gloss.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type" : "normal",
+      "name" : "Normal",
+      "minIntensity" : "105",
+      "maxIntensity" : "171",
+      "averageColor" : "#7F7DF6",
+      "colorSpace"   : "Linear",
+      "uris"         : [
+        {
+          "physicalSize" : "1x1",
+          "resolutions"  : [
+            {
+              "resolution" : "4096x4096",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_4K_Normal.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_4K_Normal.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "2048x2048",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_2K_Normal.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_2K_Normal.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "1024x1024",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_1K_Normal.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_1K_Normal.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "512x512",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_512_Normal.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_512_Normal.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "256x256",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_256_Normal.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_256_Normal.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type" : "roughness",
+      "name" : "Roughness",
+      "minIntensity" : "161",
+      "maxIntensity" : "219",
+      "averageColor" : "#BFBFBF",
+      "colorSpace"   : "Linear",
+      "uris"         : [
+        {
+          "physicalSize" : "1x1",
+          "resolutions"  : [
+            {
+              "resolution" : "4096x4096",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_4K_Roughness.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_4K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "2048x2048",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_2K_Roughness.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_2K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "1024x1024",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_1K_Roughness.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_1K_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "512x512",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_512_Roughness.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_512_Roughness.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "256x256",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_256_Roughness.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_256_Roughness.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type" : "specular",
+      "name" : "Specular",
+      "minIntensity" : "4",
+      "maxIntensity" : "43",
+      "averageColor" : "#1C1C1C",
+      "colorSpace"   : "sRGB",
+      "uris"         : [
+        {
+          "physicalSize" : "1x1",
+          "resolutions"  : [
+            {
+              "resolution" : "4096x4096",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_4K_Specular.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_4K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "2048x2048",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_2K_Specular.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_2K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "1024x1024",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_1K_Specular.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_1K_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "512x512",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_512_Specular.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_512_Specular.jpg"
+                }
+              ]
+            },
+            {
+              "resolution" : "256x256",
+              "formats"    : [
+                {
+                  "mimeType" : "image/x-exr",
+                  "bitDepth" : "16",
+                  "uri"      : "ogio2_256_Specular.exr"
+                },
+                {
+                  "mimeType" : "image/jpeg",
+                  "bitDepth" : "8",
+                  "uri"      : "ogio2_256_Specular.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "points"       : 1,
+  "references"   : [
+  ]
+}

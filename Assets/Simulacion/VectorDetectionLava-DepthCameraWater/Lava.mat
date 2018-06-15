@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Lava
+  m_Shader: {fileID: 4800000, guid: 6570f9d20f3a75d42a1b482c8cdd0dbf, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Cracks:
+        m_Texture: {fileID: 2800000, guid: 6fbbdd39bb0253f46a600a04285807e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DummyTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Lava:
+        m_Texture: {fileID: 2800000, guid: 5dd8913381188764d8038a334417609a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Stone:
+        m_Texture: {fileID: 2800000, guid: c9ea80365f04b67479a8aeba7aae67e5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Dispalcement: 0.44
+    - _EdgeLength: 3
+    - _EmissionStrenght: 0.5
+    - _FallOff: 4.3
+    - _Radius: 2.99
+    - _Reach: 2.1
+    - __dirty: 0
+    m_Colors:
+    - _EmissionColor: {r: 0.9960785, g: 0.6745098, b: 0, a: 0}
+    - _HitPosition: {r: -1.44, g: 1.39, b: 0.07, a: 0}
+    - _Speed: {r: -0.1, g: 0, b: 0, a: 0}

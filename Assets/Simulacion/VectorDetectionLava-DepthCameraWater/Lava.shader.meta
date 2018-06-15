@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6570f9d20f3a75d42a1b482c8cdd0dbf
+timeCreated: 1526909888
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Stone: {fileID: 2800000, guid: c9ea80365f04b67479a8aeba7aae67e5, type: 3}
+  - _Lava: {fileID: 2800000, guid: 5dd8913381188764d8038a334417609a, type: 3}
+  - _Cracks: {fileID: 2800000, guid: 71bf7945aa324484bbce9cfe9e9c34ed, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

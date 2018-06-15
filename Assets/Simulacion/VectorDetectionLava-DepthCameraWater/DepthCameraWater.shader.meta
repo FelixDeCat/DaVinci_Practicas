@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: aec893ef0ba7e8d4a9212f2194ce4896
+timeCreated: 1526909883
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _WaterNormal: {fileID: 2800000, guid: 3f5624d1808764848a5814ca6cc5e425, type: 3}
+  - _Water: {fileID: 2800000, guid: 7a2c491e1b60bce4aac2d95b503ae41d, type: 3}
+  - _Flowmap: {fileID: 2800000, guid: b9553c28953b33d41ab46a42ed531100, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

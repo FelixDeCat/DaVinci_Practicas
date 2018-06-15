@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 6a3e28ef8a24e81499b85eb710c73d45
+timeCreated: 1523281645
+licenseType: Free
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _BricksBlending: {fileID: 2800000, guid: 52485e8d019ebdc40852341e25b00c47, type: 3}
+  - _NoiseCloud: {fileID: 2800000, guid: 421dc1198d667034ba2ebda56493a894, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

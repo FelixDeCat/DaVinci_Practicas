@@ -18,6 +18,18 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _Grass:
+        m_Texture: {fileID: 2800000, guid: b6cdc53a9de037c4dbace34d00b759ba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Rock:
+        m_Texture: {fileID: 2800000, guid: 0638552b0f6ac0e45835e0681b11e25b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Snow:
+        m_Texture: {fileID: 2800000, guid: fa9304d8aafa3ca4aaa95d4310e3a44f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _TextureSample0:
         m_Texture: {fileID: 2800000, guid: 84e1ad1aae314e348b909c4c7a48266d, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -27,10 +39,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _EdgeLength: 10.9
-    - _Float0: 2.84
+    - _EdgeLength: 4
+    - _Float0: -2.17
     - _Float1: 0
     - _Inteniri: 0
-    - _Intensity: 0.5
+    - _Intensity: -1.62
     - __dirty: 0
     m_Colors: []
